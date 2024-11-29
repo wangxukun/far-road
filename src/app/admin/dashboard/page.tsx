@@ -18,6 +18,10 @@ export default function Page() {
                     <h2 className="text-xl font-semibold mb-4">用户管理</h2>
                     <p>管理系统用户。</p>
                 </div>
+                <div className="bg-white p-6 rounded shadow-md">
+                    <h2 className="text-xl font-semibold mb-4">英语发音评测资源管理</h2>
+                    <p>管理英语发音评测资源</p>
+                </div>
             </div>
         </div>
     );
